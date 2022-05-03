@@ -1,10 +1,9 @@
-import 'package:TTT/pages/todo_list.dart';
-import 'package:TTT/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import '../utils.dart';
+import 'pages/todo_list.dart';
 
 
 void main() {
