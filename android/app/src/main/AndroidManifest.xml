@@ -4,8 +4,8 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="login_tutorial"
-        android:icon="@mipmap/ic_launcher">
+       android:icon="@mipmap/ic_launcher"
+       android:label="login_tutorial">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
